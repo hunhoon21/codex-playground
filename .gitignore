@@ -36,6 +36,30 @@ meetings/test-*
 meetings/audio-test-*
 meetings/*-test
 meetings/*-test-*
+meetings/debug-*
+meetings/openai-event-*
+meetings/demo-*
+
+# Backend internal
+backend/.sisyphus/
+backend/meetings/
+
+# Temp/random test meetings (Korean keyboard test)
+meetings/2026-01-19-ㅂㅈㄷㄱㅂ/
+meetings/2026-01-19-ㅁㄴㅇㅍㅁ/
+meetings/2026-01-19-ㅂㅈㅍㅁㄴㅇ/
+meetings/2026-01-19-ㅁㄴㅇㅍㅁㅇㄹ/
+meetings/2026-01-19-ㅁㄴㅇㅍㅁㄴㅇ/
+meetings/2026-01-19-ㅁ늄ㄴㅇㄹ/
+meetings/2026-01-19-asdf/
+meetings/2026-01-19-asdfa/
+meetings/2026-01-19-adsvadf/
+meetings/2026-01-19-advadf/
+meetings/2026-01-19-asbasdf/
+meetings/2026-01-19-basdvadsv/
+meetings/2026-01-19-qwevqwe/
+meetings/2026-01-20-*/
+meetings/2026-01-18-ㅂㅈㄷㄱㅂ/
 
 # Duplicate docs
 docs copy/
