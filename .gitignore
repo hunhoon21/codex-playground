@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+.next/
+dist/
+build/
+
+# Environment files (secrets)
+.env
+.env.local
+backend/.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/tmp/
+
+# Test files (exclude from main commits)
+backend/test_audio.html
+backend/test_api.sh
+
+# Test meeting data
+meetings/test-*
+meetings/audio-test-*
+meetings/*-test
+meetings/*-test-*
+
+# Duplicate docs
+docs copy/
+
+# Claude cache
+.claude/
